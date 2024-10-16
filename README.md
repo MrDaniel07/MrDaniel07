@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Anyahuru Daniel
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👋 Hi, I’m Anyahuru (Daniel) Oluebube
+- 👀 I’m an (undergraduate) Software Engineer
+- 🌱 I’m currently learning Flutter and Figma
+- 💞️ I’m looking to collaborate on real world projects
+- 📫 LinkedIn: https://www.linkedin.com/in/anyahuru-oluebube-26004b26a/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coding is fun to me
 
