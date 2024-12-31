@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anyahuru (Daniel) Oluebube
 - 👀 I’m an (undergraduate) Software Engineer
 - 🌱 I’m currently learning Flutter and Swift
-- 💞️ I’m looking to collaborate on real world projects
+- 💞️ I’m looking forward to collaborate on real world projects
 - 📫 LinkedIn: https://www.linkedin.com/in/anyahuru-oluebube-26004b26a/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coding is fun to me
